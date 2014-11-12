@@ -1,0 +1,13 @@
+{
+  "name": "factorials",
+  "version": "0.0.1",
+  "description": "JavaScript implementations of factorial calculation",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test",
+    "benchmark": "node benchmark"
+  },
+  "private": true
+}
